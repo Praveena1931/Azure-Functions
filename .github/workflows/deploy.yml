@@ -1,4 +1,4 @@
-name: Terraform Kubernetes Cluster
+name: Terraform Functions
 
 on:
   push:
