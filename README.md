@@ -215,7 +215,7 @@ terraform destroy -auto-approve
 
 ## 🧠 Learn More
 
-* [Azure Kubernetes Documentation](https://learn.microsoft.com/en-us/azure/azure-functions/)
+* [Azure Functions Documentation](https://learn.microsoft.com/en-us/azure/azure-functions/)
 * [Azure Functions creation using terraform](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-terraform?tabs=core-tools&pivots=programming-language-csharp)
 * [Terraform AzureRM Provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 * [GitHub Actions for Terraform](https://github.com/hashicorp/setup-terraform)
